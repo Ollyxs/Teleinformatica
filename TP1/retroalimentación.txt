@@ -1,0 +1,4 @@
+Nota: 9
+
+Ej2 f: es dirección de RED.
+Ej 4: la subred de profesores es /26 para incluir la dirección de Gateway.
