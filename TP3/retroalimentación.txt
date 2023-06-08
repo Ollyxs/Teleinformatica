@@ -1,0 +1,4 @@
+Sin calificar
+
+Ej1: Sucursal 4 es /27
+Ej2: Router San Luis: el routeo RIP tiene 196 en lugar de 192 en el 1er octeto de la dirección de red.
